@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8hFN54Btenbsm/yTE6lkpfRSGh656T4oWAu2lUs+TZksEx9iPzZHEDge4S3jNGkPYs/mGVPsz/TBd8YO58LbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tiaan\\source\\repos\\BL\\BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiaan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tiaan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
