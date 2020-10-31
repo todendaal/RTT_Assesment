@@ -1,0 +1,11 @@
+Susan,Botha,2003/02/12 00:00:00, Female,susan@test.com,,,,,
+John,Dim,2011/03/21 00:00:00, Male,John@dim.com,,,,,
+Frik,Jonkers,1996/07/30 00:00:00, Male,Frik@del.com,,,,,
+Kaye,Kia,1976/03/10 00:00:00, Female,kate@kia.com,,,,,
+Sean,Marx,2018/03/16 00:00:00, Male,Sean@Marx.com,Work,sean,Brackenhurst,jjjjj,mmmmm
+Tiaan,Odendaal,1972/12/30 00:00:00, Male,tiaanodendaal@gmail.com,Home,14 Agapanthus street,Brackenhurst,Anywhere,Anywhere
+,,,,Home,1 Coxwold,92 Sovereign Drive,Bedford Gardens,Germiston
+Clint,Odendaal,1996/01/20 00:00:00, Male,clintiebotha@gmail.com,,,,,
+Ruben,Odendaal,2006/06/14 00:00:00, Male,ruben@test.com,,,,,
+Last,Test,1972/10/12 00:00:00, Male,Last@test.com,Holiday,14 Agapanthus street,Brackenhurst,Bedford Gardens,Germiston
+Steve,Waw,1998/06/17 00:00:00, Male,steve@test.com,,,,,

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiaan\\source\\repos\\DAL\\DAL.csproj": {}
+    "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiaan\\source\\repos\\BL\\BL.csproj": {
+    "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiaan\\source\\repos\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\Tiaan\\source\\repos\\BL\\BL.csproj",
+        "projectPath": "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\Tiaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiaan\\source\\repos\\BL\\obj\\",
+        "outputPath": "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Tiaan\\source\\repos\\DAL\\DAL.csproj": {
+    "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiaan\\source\\repos\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Tiaan\\source\\repos\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Tiaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiaan\\source\\repos\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Tiaan\\source\\repos\\BL\\BL.csproj": {
-                "projectPath": "C:\\Users\\Tiaan\\source\\repos\\BL\\BL.csproj"
+              "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\BL\\BL.csproj": {
+                "projectPath": "C:\\Users\\Tiaan\\Documents\\GitHub\\RTT_Assesment\\BL\\BL.csproj"
               }
             }
           }
