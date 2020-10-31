@@ -8,7 +8,7 @@
             RTT Assesment including multitier development and the use of WCF<br /><br />
             I have developed two pages with the same functionality, the first one was done using standard 3 tier dev using Data access layer and Models<br />
             The second page makes use of the same front end but use the WCF services rather than the DAL.<br /><br />
-            Please remember to start the WCF service by opening <a href="http://localhost:60000/Service1.svc">http://localhost:60000/Service1.svc</a>
+            Please remember to start the WCF service by opening <a target="_blank" href="http://localhost:60000/Service1.svc">http://localhost:60000/Service1.svc</a>
         </p>
         <p style="width:100%;"><a style="width:400px;" href="/Client"" class="btn btn-primary btn-lg">Clients (DAL)&raquo;</a></p>
         <p style="width:100%;"><a style="width:400px;" href="/ClientService"" class="btn btn-primary btn-lg">Clients (WCF)&raquo;</a></p>        
