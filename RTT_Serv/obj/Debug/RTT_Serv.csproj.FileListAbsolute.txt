@@ -61,3 +61,16 @@ C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\obj\Debug\RTT_Serv.csproj
 C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\obj\Debug\RTT_Serv.csproj.CopyComplete
 C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\obj\Debug\RTT_Serv.dll
 C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\obj\Debug\RTT_Serv.pdb
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\Dapper.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Buffers.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Data.SqlClient.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Memory.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Numerics.Vectors.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Security.Permissions.dll
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Security.AccessControl.xml
+C:\Users\Tiaan\Documents\GitHub\RTT_Assesment\RTT_Serv\bin\System.Security.Principal.Windows.xml
